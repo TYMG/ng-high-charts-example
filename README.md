@@ -27,3 +27,5 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 [Highcharts Integration Solution](https://stackoverflow.com/questions/35719921/how-to-use-highcharts-with-angular-5)
+
+Had to update Hoek due to a security problem `npm i --save hoek`
