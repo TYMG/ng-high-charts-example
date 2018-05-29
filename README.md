@@ -5,8 +5,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 # Setup
 
 npm i highcharts --save
+
 npm i @types/highcharts --save
+
 npm i --save ng2-highcharts
+
 npm i --save hoek
 
 ## Development server
